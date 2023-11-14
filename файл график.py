@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-f1 = open('C:\\Users\hp\Downloads\PZ_Mon_v_radial_1__1.dat', 'r')
+f1 = open('PZ_Mon_v_radial_1__1.dat', 'r')
 f0 = []
 for line in f1:
     f = line.split()
